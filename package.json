@@ -1,6 +1,6 @@
 {
   "name": "@ralvarezdev/js-deep-freeze",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deep freeze helper function for JavaScript projects",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/ralvarezdev/js-deep-freeze/issues"
   },
-  "homepage": "https://github.com/ralvarezdev/js-deep-freeze#readme"
+  "homepage": "https://github.com/ralvarezdev/js-deep-freeze#readme",
+  "type": "module"
 }
