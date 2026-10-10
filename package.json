@@ -18,7 +18,7 @@
     "deep-freeze"
   ],
   "author": "Ramón Álvarez",
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/ralvarezdev/js-deep-freeze/issues"
   },
